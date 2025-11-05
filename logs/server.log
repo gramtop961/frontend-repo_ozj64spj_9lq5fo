@@ -1,0 +1,15 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 280 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.5.111:3000/
+3:44:40 PM [vite] Pre-transform error: Transform failed with 1 error:
+/home/workspace/src/components/ProcessQA.jsx:54:129: ERROR: Expected identifier but found "2"
+3:44:41 PM [vite] ✨ new dependencies optimized: @splinetool/react-spline, lucide-react
+3:44:41 PM [vite] ✨ optimized dependencies changed. reloading
+3:44:43 PM [vite] Pre-transform error: Transform failed with 1 error:
+/home/workspace/src/components/ProcessQA.jsx:54:129: ERROR: Expected identifier but found "2"
